@@ -1,2 +1,2 @@
-# globa-central-bank-interest-rates
- An overview of global central bank interest rates over time.
+# Global Economic Indicators
+ A study of global economic indicators, focussing on G8 countries with the inclusion of Australia and the OECD as a whole.
